@@ -18,7 +18,7 @@ List of exercises worked through in class and what was covered in them. A quick 
 * serving up a wombat **gif**
 * notes on running a server from a home pc which is accessible externally
 
-## [express-mongoose-music-app](https://github.com/developingAlex/express-mongoose-music-app)20171124
+## [express-mongoose-music-app](https://github.com/developingAlex/express-mongoose-music-app)- 20171124
 * introduces model **validations**
 * **CRUD**
 * **Nodemon**
