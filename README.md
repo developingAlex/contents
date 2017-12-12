@@ -102,15 +102,15 @@ List of exercises worked through in class and what was covered in them. A quick 
 * Reading the url path with react-router-dom
 * Prettier VS Code plugin
 * Double arrow functions! 
-  ```javascript
-   const requireAuth = (render) => (props) => (
-     signedIn ? (
-       render()
-     ) : (
-       <Redirect to='signin' />
-     )   
-   )
-  ```
+    ```javascript
+     const requireAuth = (render) => (props) => (
+       signedIn ? (
+         render()
+       ) : (
+         <Redirect to='signin' />
+       )   
+     )
+    ```
 * Explanation of import statements and curly braces
 * before\_action authenticate\_user type functionality in ReactJS
 * Redirect
