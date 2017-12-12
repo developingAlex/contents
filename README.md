@@ -97,3 +97,20 @@ List of exercises worked through in class and what was covered in them. A quick 
 * MongoDB **seed** file
 * package.json file has good example of **yarn scripts**
 * Mongo terminal **db querying** and maintenance commands
+* 'Inclusive Design Patterns' book mention
+* When to use curly braces in import statements
+* Reading the url path with react-router-dom
+* Prettier VS Code plugin
+* Double arrow functions! 
+  ```javascript
+   const requireAuth = (render) => (props) => (
+     signedIn ? (
+       render()
+     ) : (
+       <Redirect to='signin' />
+     )   
+   )
+  ```
+* Explanation of import statements and curly braces
+* before\_action authenticate\_user type functionality in ReactJS
+* Redirect
