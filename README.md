@@ -69,6 +69,7 @@ List of exercises worked through in class and what was covered in them. A quick 
 ## [storms-of-december](https://github.com/developingAlex/storms-of-december/tree/alex-master) - 20171205
 * **React**
 * **Node.js**
+* how to get up and running one of these nodjs react apps if you cloned it.
 * app behaves like an api responding to URL requests with appropriate data.
 * MongoDB seed
 * distinct backend and frontend folders
