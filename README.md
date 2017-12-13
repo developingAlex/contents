@@ -114,3 +114,11 @@ List of exercises worked through in class and what was covered in them. A quick 
 * Explanation of import statements and curly braces
 * before\_action authenticate\_user type functionality in ReactJS
 * Redirect
+* lazy loading
+* `<Switch>`
+* Useful technologies:
+    * bundlephobia.com for anything you `yarn add` and it will tell you how big that library is. 
+    * unpkg.com was shown as an example of minifying the javascript "minification"
+    * github.com/developit microbundle
+    * github.com/insin/nwb
+    * [The javascript quirks table](https://dorey.github.io/JavaScript-Equality-Table/)
