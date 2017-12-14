@@ -99,9 +99,9 @@ List of exercises worked through in class and what was covered in them. A quick 
 * Mongo terminal **db querying** and maintenance commands
 * 'Inclusive Design Patterns' book mention
 * When to use curly braces in import statements
-* Reading the url path with react-router-dom
+* Reading the url path with **react-router-dom**
 * Prettier VS Code plugin
-* Double arrow functions! 
+* **Double arrow functions**! 
     ```javascript
      const requireAuth = (render) => (props) => (
        signedIn ? (
@@ -113,8 +113,8 @@ List of exercises worked through in class and what was covered in them. A quick 
     ```
 * Explanation of import statements and curly braces
 * before\_action authenticate\_user type functionality in ReactJS
-* Redirect
-* lazy loading
+* **Redirect** by React
+* **Lazy loading**
 * `<Switch>`
 * Useful technologies:
     * bundlephobia.com for anything you `yarn add` and it will tell you how big that library is. 
@@ -122,3 +122,14 @@ List of exercises worked through in class and what was covered in them. A quick 
     * github.com/developit microbundle
     * github.com/insin/nwb
     * [The javascript quirks table](https://dorey.github.io/JavaScript-Equality-Table/)
+* **Environment variables**
+    * in React
+    * in Node | Express
+    * .env
+* @variables
+* **Deploying** a **Mongo | React | Node** app on the internet
+    * `now` from zeit.co/now
+    * mlab.com
+    * **Building** a React app - `npm run build`
+    * Netlify page **redirects** (`/* /index.html 200` & `_redirects` file)
+    
